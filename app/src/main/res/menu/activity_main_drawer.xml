@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:Android="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view"
+    >
+
+    <group
+        android:checkableBehavior="single"
+        >
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="الرئسية" />
+        <item
+            android:id="@+id/calcul1"
+            android:icon="@drawable/ic_query"
+            android:title="مدة العمل 8h في اليوم" />
+        <item
+            android:id="@+id/calcul2"
+            android:icon="@drawable/ic_query"
+            android:title=" مدة العمل 9h في اليوم" />
+        <!--<item-->
+            <!--android:id="@+id/calcul3"-->
+            <!--android:icon="@drawable/ic_query"-->
+            <!--android:title="لحساب الراتب الثابت  " />-->
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_help"
+            android:title="المساعدة" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="مشاركة البرنامج" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title=" ارسال" />
+        </menu>
+    </item>
+
+</menu>

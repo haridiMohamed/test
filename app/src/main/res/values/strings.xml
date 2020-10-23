@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">حساب الراتب</string>
+
+    <string name="sendData"> السلام عليكم</string>
+    <string name="sendData2"> بالنسبة للاخوان ال</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="text">هذا البرنامج مخصص للطبقة العاملة في القطاع الخاص</string>
+    <string name="text2">  في هذه الصفحة سيتم شرح المعلومات التي ستقدمها كمستخدم للبرنامج حتى يقوم بالعملية الحسابية</string>
+    <string name="t1">عدد الايام التي اشتغلت في هذا الشهر بالنسبة للعمل 8 ساعات في اليوم </string>
+    <string name="t2">عدد الساعات التي اشتغلت في هذا الشهر بالنسبة للعمل 9 ساعات في اليوم  </string>
+    <string name="t3">العمل كثر من 44 ساعة في الاسبوع تضاف الى الساعات الاضافية</string>
+    <string name="t4"> عدد ايام السبت التي اشتغلت بها في الشهر لانها تحتوي على 4 ساعات اضافية</string>
+    <string name="t5">  تضاف حسب الاقدمية ان كان العامل جديد يضع الرقم 0</string>
+    <string name="t6">عدد ايام العطل الدينة او الوطنية في الشهر الذي شتغلت به </string>
+    <string name="t7"> عدد ايام العطل السنوية التي تم حسابها في الشهر </string>
+    <string name="t8"> وهو مبلغ يضيفه المشغل لمجهودات العامل او غيرها من الاستحقاقات</string>
+    <string name="t9"> مبلغ يمكن ان يضيفه المشغل وهو يكون خارج الضريبة مثل عيد الاضحى</string>
+    <string name="t10">ارجوا من الله ان يكون الشرح بسيط و مفهوم  </string>
+    <string name="t11"> ان استفدت من البرنامج فارجوا النشر فهو مجاني</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+<!--    <string name="app_id">ca-app-pub-3036419909696827~4633923622</string>-->
+<!--    <string name="ad_unit_banner">ca-app-pub-3036419909696827/9061087940</string>-->
+<!--    <string name="ad_unit_full">ca-app-pub-3036419909696827/6341756963</string>-->
+
+
+        <string name="app_id"></string>
+        <string name="ad_unit_banner">ca-app-pub-2195728537410789/2008448950</string>
+        <string name="ad_unit_full">ca-app-pub-2195728537410789/6842312541</string>
+    <string name="title_activity_full_scren_video">FullScrenVideo</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
